@@ -23,6 +23,7 @@ requirements:
     - python
     - pip
     - zbar
+    - setuptools
   run:
     - python
     - setuptools
